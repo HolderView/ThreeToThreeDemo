@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //heihei
         //爸爸一把不一般要哦
 
+        //黄金客户的时刻就阿富汗可接受的
+
     }
 }
